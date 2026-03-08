@@ -1,0 +1,264 @@
+[
+  {
+    "slug": "crystal-magic-dragon",
+    "name": "Crystal Magic Dragon",
+    "category": "dragons",
+    "description": "Flexi fidget articulated crystal dragon. Satisfying tactile movement with a beautiful crystalline texture. Fully articulated so every segment moves independently — perfect for fidgeting or displaying.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "1-2",
+    "featured": true,
+    "images": [
+      "/images/products/crystal-magic-dragon/1.jpg",
+      "/images/products/crystal-magic-dragon/2.jpg",
+      "/images/products/crystal-magic-dragon/3.jpg",
+      "/images/products/crystal-magic-dragon/4.jpg",
+      "/images/products/crystal-magic-dragon/5.jpg",
+      "/images/products/crystal-magic-dragon/6.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Red",
+        "hex": "#cc2200",
+        "image": "/images/products/crystal-magic-dragon/1.jpg",
+        "paymentLink": "https://buy.stripe.com/test_00w3cx4Zx1Frdfl7tRfAc00",
+        "price": 12.50
+      },
+      {
+        "name": "Blue",
+        "hex": "#1a44cc",
+        "image": "/images/products/crystal-magic-dragon/2.jpg",
+        "paymentLink": "https://buy.stripe.com/test_00w3cx4Zx1Frdfl7tRfAc00",
+        "price": 12.50
+      },
+      {
+        "name": "Purple",
+        "hex": "#7c3aed",
+        "image": "/images/products/crystal-magic-dragon/3.jpg",
+        "paymentLink": "https://buy.stripe.com/test_00w3cx4Zx1Frdfl7tRfAc00",
+        "price": 12.50
+      },
+      {
+        "name": "Black",
+        "hex": "#1a1a1a",
+        "image": "/images/products/crystal-magic-dragon/4.jpg",
+        "paymentLink": "https://buy.stripe.com/test_00w3cx4Zx1Frdfl7tRfAc00",
+        "price": 12.50
+      }
+    ]
+  },
+  {
+    "slug": "flexi-axolotl",
+    "name": "Flexi Axolotl",
+    "category": "animals",
+    "description": "Adorable fully articulated axolotl with satisfying flexi movement. Each gill and fin segment moves independently. A desk companion that never gets old.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "1-2",
+    "featured": true,
+    "images": [
+      "/images/products/flexi-axolotl/1.jpg",
+      "/images/products/flexi-axolotl/2.jpg",
+      "/images/products/flexi-axolotl/3.jpg",
+      "/images/products/flexi-axolotl/4.jpg",
+      "/images/products/flexi-axolotl/5.jpg",
+      "/images/products/flexi-axolotl/6.jpg",
+      "/images/products/flexi-axolotl/7.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Pink",
+        "hex": "#f472b6",
+        "image": "/images/products/flexi-axolotl/1.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 10.00
+      },
+      {
+        "name": "White",
+        "hex": "#f0f0f0",
+        "image": "/images/products/flexi-axolotl/2.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 10.00
+      },
+      {
+        "name": "Orange",
+        "hex": "#f97316",
+        "image": "/images/products/flexi-axolotl/3.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 10.00
+      }
+    ]
+  },
+  {
+    "slug": "flexi-shark",
+    "name": "Flexi Shark",
+    "category": "animals",
+    "description": "Articulated flexi shark with realistic body movement. Satisfying to hold and manipulate. Looks great on any desk or shelf.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "1-2",
+    "featured": false,
+    "images": [
+      "/images/products/flexi-shark/1.jpg",
+      "/images/products/flexi-shark/2.jpg",
+      "/images/products/flexi-shark/3.jpg",
+      "/images/products/flexi-shark/4.jpg",
+      "/images/products/flexi-shark/5.jpg",
+      "/images/products/flexi-shark/6.jpg",
+      "/images/products/flexi-shark/7.jpg",
+      "/images/products/flexi-shark/8.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Blue",
+        "hex": "#2563eb",
+        "image": "/images/products/flexi-shark/1.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 10.00
+      },
+      {
+        "name": "Grey",
+        "hex": "#6b7280",
+        "image": "/images/products/flexi-shark/2.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 10.00
+      }
+    ]
+  },
+  {
+    "slug": "voronoi-lamp",
+    "name": "Voronoi Table Lamp",
+    "category": "lamps",
+    "description": "Geometric Voronoi pattern lamp shade that casts beautiful dappled light across any room. Fits standard E27 bulb. Printed in translucent PLA for a warm diffused glow.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "2-3",
+    "featured": true,
+    "images": [
+      "/images/products/voronoi-lamp/1.jpg",
+      "/images/products/voronoi-lamp/2.jpg",
+      "/images/products/voronoi-lamp/3.jpg",
+      "/images/products/voronoi-lamp/4.jpg",
+      "/images/products/voronoi-lamp/5.jpg",
+      "/images/products/voronoi-lamp/6.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Natural White",
+        "hex": "#fafaf5",
+        "image": "/images/products/voronoi-lamp/1.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 28.00
+      },
+      {
+        "name": "Amber",
+        "hex": "#d97706",
+        "image": "/images/products/voronoi-lamp/2.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 28.00
+      }
+    ]
+  },
+  {
+    "slug": "flexi-dragon-wyvern",
+    "name": "Wyvern Dragon",
+    "category": "dragons",
+    "description": "Imposing flexi wyvern with articulated wings and tail. Larger than our crystal dragon — a real statement piece. Each scale segment is individually printed and assembled.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "2-3",
+    "featured": true,
+    "images": [
+      "/images/products/flexi-dragon-wyvern/1.jpg",
+      "/images/products/flexi-dragon-wyvern/2.jpg",
+      "/images/products/flexi-dragon-wyvern/3.jpg",
+      "/images/products/flexi-dragon-wyvern/4.jpg",
+      "/images/products/flexi-dragon-wyvern/5.jpg",
+      "/images/products/flexi-dragon-wyvern/6.jpg",
+      "/images/products/flexi-dragon-wyvern/7.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Forest Green",
+        "hex": "#15803d",
+        "image": "/images/products/flexi-dragon-wyvern/1.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 18.00
+      },
+      {
+        "name": "Midnight Black",
+        "hex": "#0f0f0f",
+        "image": "/images/products/flexi-dragon-wyvern/2.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 18.00
+      },
+      {
+        "name": "Crimson",
+        "hex": "#b91c1c",
+        "image": "/images/products/flexi-dragon-wyvern/3.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 18.00
+      }
+    ]
+  },
+  {
+    "slug": "fridge-magnet-set",
+    "name": "Mini Dragon Magnet Set",
+    "category": "magnets",
+    "description": "Set of 3 miniature dragon magnets. Each one is a tiny articulated dragon with a strong neodymium magnet embedded in the base. Perfect for fridges, whiteboards, and metal surfaces.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "1-2",
+    "featured": false,
+    "images": [
+      "/images/products/fridge-magnet-set/1.jpg",
+      "/images/products/fridge-magnet-set/2.jpg",
+      "/images/products/fridge-magnet-set/3.jpg",
+      "/images/products/fridge-magnet-set/4.jpg",
+      "/images/products/fridge-magnet-set/5.jpg"
+    ],
+    "colours": [
+      {
+        "name": "Mixed Colours",
+        "hex": "#6366f1",
+        "image": "/images/products/fridge-magnet-set/1.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 8.00
+      },
+      {
+        "name": "All Black",
+        "hex": "#111111",
+        "image": "/images/products/fridge-magnet-set/2.jpg",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 8.00
+      }
+    ]
+  },
+  {
+    "slug": "cable-tidy-clip",
+    "name": "Cable Tidy Clips",
+    "category": "accessories",
+    "description": "Set of 5 desk cable management clips. Snap onto the edge of any desk up to 30mm thick. Keeps your cables exactly where you want them.",
+    "material": "PLA",
+    "madeToOrder": true,
+    "productionDays": "1",
+    "featured": false,
+    "images": [],
+    "colours": [
+      {
+        "name": "Black",
+        "hex": "#111111",
+        "image": "",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 6.00
+      },
+      {
+        "name": "White",
+        "hex": "#f5f5f5",
+        "image": "",
+        "paymentLink": "https://buy.stripe.com/REPLACE_WITH_REAL_LINK",
+        "price": 6.00
+      }
+    ]
+  }
+]

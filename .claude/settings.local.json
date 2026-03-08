@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --yes)",
+      "Bash(npx create-next-app@latest gomaker-temp --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-git --yes)",
+      "Bash(npx next build)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "mcp__plugin_playwright_playwright__browser_run_code",
+      "mcp__plugin_playwright_playwright__browser_click",
+      "Bash(curl -L \"https://gomaker.co.uk/cdn/shop/files/Frame_1.png?v=1702511586&width=420\" -o \"C:/Vibe Projects/Gomaker_rebuild/public/images/logo.png\")",
+      "WebFetch(domain:fonts.google.com)",
+      "Bash(curl -s \"https://gomaker.co.uk/sitemap_products_1.xml\")",
+      "Bash(curl -s \"https://gomaker.co.uk/sitemap_products_1.xml?from=8639260393811&to=10147396026707\")",
+      "Bash(node -e \":*)",
+      "Bash(node scripts/migrate-homepage-images.mjs)",
+      "Bash(git add next.config.ts src/app/globals.css src/app/layout.tsx src/app/page.tsx .claude/ data/ public/images/ scripts/ src/app/about/ src/app/contact/ src/app/product/ src/app/shop/ src/components/ src/lib/)"
+    ]
+  }
+}
